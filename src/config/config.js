@@ -19,7 +19,7 @@ const config = {
     agenda: [
       {
         title: 'Akad Nikah',
-        date: '2024-05-9',
+        date: '2025-05-9',
         startTime: '08:00',
         endTime: 'Selesai',
         location: 'Sinar Jaya Area, RT.02/RW.01',
